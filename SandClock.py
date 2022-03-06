@@ -23,7 +23,7 @@ def print_glass(size, tot, seconds_up, seconds_down):
 			elif i+j == 2*size+1:
 				symbol, diag2 = '/', j
 				
-			#sands	
+			#sand	
 			elif diag1<j<diag2:
 				count_up += 1
 				if count_up>(tot-seconds_up):
