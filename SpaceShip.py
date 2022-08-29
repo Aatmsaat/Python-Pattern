@@ -29,3 +29,4 @@ while True:
 	speed(.1)
 	position -= 1
 	system('cls') #'clear' for linux & 'cls' for windows
+#please like & subscribe https://bit.ly/3Ie9fpl
